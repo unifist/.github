@@ -90,7 +90,7 @@ I know how to do a lot of things. I'm going to try to teach you all to teach you
 # People
 
 There are currently two of us:
-- Gaffer Fitch - Creator, Leader
+- Gaffer Fitch - Creator, Leader - https://www.linkedin.com/in/gafferfitch
   - Benefits from trying to savd the world
   - Good leadership practice
   - Can't spoell for shit
