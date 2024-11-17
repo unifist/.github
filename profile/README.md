@@ -9,9 +9,9 @@ Currently figurig out how to make this shit public: https://unifist.atlassian.ne
 
 Until then, fuck it, it says (from a straight Copy/Pasta): 
 
-```
 Below are what’s known, as in least in Tech Project Management, as User Stories. We use these to determine overall final outcomes, as North Stars. Everyone working on a Project knows these and uses these to guide their decisions. 
 
+```
 As a Human Being, I want:
 
     Security, Stability, and Prosperity
@@ -55,9 +55,11 @@ As a Human Being, I want:
             Financial Prosperity
 
                 If the system is growing for one, it should be growing for all 
+```
 
 I will continue to fill these in as in Tech, more of our work is very iterable. Nothing is really done. We should look at what works, and what doesn’t (often something that used to work but doesn’t because we grew) and decide what to improve. We use these user stories to determine what’s working or not: how well are our goals being achieved currently?
 
+```
 Looking at these as a person as yourself, answer these questions:
 
     Do I understand the Goals? How well?
