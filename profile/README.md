@@ -5,6 +5,8 @@ unifist
 
 To empower compassionate, empathetic, and cooperative individuals to plan, collaborate, and accomplish large scale tasks normally reserved for corporations of governments. 
 
+Head over to our Facebook Group: https://www.facebook.com/groups/1672262016975662 Hanging out there for a bit.
+
 Currently figurig out how to make this shit public: https://unifist.atlassian.net/wiki/spaces/Definition/pages/360452/Purpose
 
 Until then, fuck it, it says (from a straight Copy/Pasta): 
